@@ -1,0 +1,15 @@
+The following fields will be stored for a every student:
+ID
+Name
+Class and section
+
+
+It is a menu driven program that has 4 operations
+1. Insert new record for each student
+2. See all records
+3. Update the record of any student
+4. Delete the record of any student
+
+Features - 
+1. Id for each student is auto-generated random integer.
+2. It asks you to make sure you wanna delete an entry when deleting a record.
