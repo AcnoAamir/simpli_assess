@@ -1,0 +1,19 @@
+We created an e-commerce portal that lets people shop basic items on their website. The website has the following features:
+
+User Side - 
+
+1. Login into user profile
+2. Select items from the list of items provided that you would like to buy
+3. Enter the quantity of that item you wanna purchase
+4. Go to cart when you have added all the items you wanna buy
+5. It shows you the items and quantity of all items
+6. When you press Checkout, it shows you the amount of money you need to pay and total amount to be payed
+7. On pressing Payment it pays the amount
+
+
+Admin side - 
+
+1. Admin login page 
+2. Admin can change password after login if they wants to
+2. A master list of food items available for purchase
+3. A functionality to add or remove food items

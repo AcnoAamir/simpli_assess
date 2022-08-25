@@ -1,0 +1,13 @@
+Pre-requisits - XAMPP
+
+
+Step 1 - Start Xampp Control Panel and start Apache and MySQL
+
+
+Step 2 - Open "localhost/phpmyadmin" in your browser and then create a database called "simplilearn_assignment" and import the file "simplilearn_assignment.sql" from the folder, this should give you the working database
+
+Step 3 - Goto "xampp\htdocs" on your system and create a new folder which will contain all the required files for the website, so paste all the files in it.
+
+Step 4 - Goto localhost\<foldername> and it will show you the working website.
+
+Step 5 - Now you can create a new admin or user to do as you want.
