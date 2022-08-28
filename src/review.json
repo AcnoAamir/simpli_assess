@@ -1,0 +1,32 @@
+{"reviews": [
+    {
+      "id": 1,
+      "name": "J. S. Panwar",
+      "avatar": ".././avatars/avatar-1.png",
+      "comment": "Good Experiance"
+    },
+    {
+      "id": 2,
+      "name": "Banwari lal",
+      "avatar": ".././avatars/avatar-2.png",
+      "comment": "i learnt a lot by the event it was one of my memorable event ever ...."
+    },
+    {
+      "id": 3,
+      "name": "kiran Gopale",
+      "avatar": ".././avatars/avatar-3.png",
+      "comment": "Came to know about the latest product trends and technologies"
+    },
+    {
+      "id": 4,
+      "name": "Mukund P",
+      "avatar": ".././avatars/avatar-4.png",
+      "comment": "It's was a great experience to meet various companies with there product n new technologies for future use . . Nice experience for me🤗"
+    },
+    {
+      "id": 5,
+      "name": "Siddhi Jain",
+      "avatar": ".././avatars/avatar-5.png",
+      "comment": "It was fun visiting the exhibition..got to see so many new products not only from India but even China n Japan..event was well organised but too big to see all the stalls in a day..I tried to finish it off in a day’s visit..but ended up tiring myself and skipping a few stalls...anyways it was great."
+    }
+  ]}

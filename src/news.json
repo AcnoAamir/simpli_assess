@@ -1,0 +1,34 @@
+{
+    "news": [
+        {
+            "id": 1,
+            "newsTitle": "Lorem ipsum",
+            "newsText": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iure maiores optio praesentium voluptate natus velit atque eaque eos quae perspiciatis. Perferendis reprehenderit aspernatur excepturi sint saepe quam laboriosam provident ducimus."
+        },
+        {
+            "id": 2,
+            "newsTitle": "Lorem ipsum",
+            "newsText": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iure maiores optio praesentium voluptate natus velit atque eaque eos quae perspiciatis. Perferendis reprehenderit aspernatur excepturi sint saepe quam laboriosam provident ducimus."
+        },
+        {
+            "id": 3,
+            "newsTitle": "Lorem ipsum",
+            "newsText": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iure maiores optio praesentium voluptate natus velit atque eaque eos quae perspiciatis. Perferendis reprehenderit aspernatur excepturi sint saepe quam laboriosam provident ducimus."
+        },
+        {
+            "id": 4,
+            "newsTitle": "Lorem ipsum",
+            "newsText": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iure maiores optio praesentium voluptate natus velit atque eaque eos quae perspiciatis. Perferendis reprehenderit aspernatur excepturi sint saepe quam laboriosam provident ducimus."
+        },
+        {
+            "id": 5,
+            "newsTitle": "Lorem ipsum",
+            "newsText": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iure maiores optio praesentium voluptate natus velit atque eaque eos quae perspiciatis. Perferendis reprehenderit aspernatur excepturi sint saepe quam laboriosam provident ducimus."
+        },
+        {
+            "id": 6,
+            "newsTitle": "Lorem ipsum",
+            "newsText": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iure maiores optio praesentium voluptate natus velit atque eaque eos quae perspiciatis. Perferendis reprehenderit aspernatur excepturi sint saepe quam laboriosam provident ducimus."
+        }
+    ]
+}
