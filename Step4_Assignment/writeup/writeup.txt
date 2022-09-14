@@ -1,11 +1,21 @@
-Build a React app where users can view and promote upcoming events.
+Create an ASP.NET MVC web application to sell laptops online.
 
 Background of the problem statement: 
 
-You are a web developer at a company called FindMyMovies. The company has decided to launch a new app called FindMyEvents where users can view and add upcoming events in their region. bBackend development has been outsourced and frontend will be developed in-house. During sprint planning, you agree to lead this project and develop an app that will let users find events using APIs that backend engineers will provide.
+An existing retail company, Digital Retailers Inc, wants to take their business online and create an e-commerce portal that will enable people to purchase laptops online. They like to prototype new projects quickly using Agile methods and hence want to avoid a long requirement capture stage. They want to keep track of their codebase using Git so that multiple developers can work on it as required.
 
 Features -
-Has a login page
-Has recent events listed
-Has location of office
-Has review of event and details of event
+Admin side -
+1. Can Add new laptops
+2. Can edit details of laptop
+3. Can edit companies and brands
+4. Can add other devices other than laptops
+
+User side -
+1. Can view latest news
+2. Can search up the required product using search bar
+3. Shows discounts
+
+Misc.
+1. About page
+2. Signup for new users
