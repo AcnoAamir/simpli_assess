@@ -10,7 +10,7 @@
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
         <style>
             .jumbotron {
-                background-color: #f4511e;
+                background-color: #3870c9;
                 color: #fff;
                 padding: 100px 25px;
             }
@@ -24,12 +24,12 @@
             }
             
             .logo-small {
-                color: #f4511e;
+                color: #3870c9;
                 font-size: 50px;
             }
             
             .logo {
-                color: #f4511e;
+                color: #3870c9;
                 font-size: 200px;
             }
             
@@ -53,7 +53,7 @@
         <br />
 
         <div class="jumbotron text-center">
-            <h1>Digital Retailers Inc</h1>
+            <h1>Joe’s Pizza</h1>
             <p></p>
             <form class="form-inline">
                 <div class="input-group">
