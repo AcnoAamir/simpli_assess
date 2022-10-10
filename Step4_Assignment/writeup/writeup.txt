@@ -1,0 +1,21 @@
+Create an ASP.NET MVC web application to sell laptops online.
+
+Background of the problem statement: 
+
+An existing retail company, Digital Retailers Inc, wants to take their business online and create an e-commerce portal that will enable people to purchase laptops online. They like to prototype new projects quickly using Agile methods and hence want to avoid a long requirement capture stage. They want to keep track of their codebase using Git so that multiple developers can work on it as required.
+
+Features -
+Admin side -
+1. Can Add new laptops
+2. Can edit details of laptop
+3. Can edit companies and brands
+4. Can add other devices other than laptops
+
+User side -
+1. Can view latest news
+2. Can search up the required product using search bar
+3. Shows discounts
+
+Misc.
+1. About page
+2. Signup for new users
