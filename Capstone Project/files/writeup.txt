@@ -1,0 +1,18 @@
+Build an ASP.NET website comprising of the following three pages:
+=> Pizza selection page 
+=> Order checkout page
+=> Order confirmation page  
+Create test suites to test the pages for end-user testing. 
+
+Background of the problem statement:
+Joe’s Pizza has created the UI for an online ordering portal. They want the pages to be properly tested with a testing framework using NUnit, Selenium and Specflow. The prototype will then be deployed via Jenkins to an Azure VM at scheduled intervals.
+
+Features -
+It shows 7 test cases
+=> Test 1 signin with correct credentials 	
+=> Test 2 signin with incorrect credentials
+=> Test 3 View all Products 
+=> Test 4 Oder single Product 
+=> Test 5 Oder multiple Products 
+=> Test 6 Cart
+=> Test 7 Order placed 
