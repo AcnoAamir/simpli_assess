@@ -1,18 +1,41 @@
-Build an ASP.NET website comprising of the following three pages:
-=> Pizza selection page 
-=> Order checkout page
-=> Order confirmation page  
-Create test suites to test the pages for end-user testing. 
+Features of the application:
+1. User can register 
+2. User can log in 
+3. User can log in as admin
+4. User can add/update medicines to portal
+5. User can browse through medicines
+6. User can search medicines
+7. User can sort medicines based on name and category
+8. User can manage the cart
+9. User can place order  
 
-Background of the problem statement:
-Joe’s Pizza has created the UI for an online ordering portal. They want the pages to be properly tested with a testing framework using NUnit, Selenium and Specflow. The prototype will then be deployed via Jenkins to an Azure VM at scheduled intervals.
+Technologies used
+1. Database management: SQLServer  
+2. Back-end logic: ASP.NET
+3. Testing technologies: NUnit/XUnit 
+4. DevOps and production technologies: Git, GitHub
 
-Features -
-It shows 7 test cases
-=> Test 1 signin with correct credentials 	
-=> Test 2 signin with incorrect credentials
-=> Test 3 View all Products 
-=> Test 4 Oder single Product 
-=> Test 5 Oder multiple Products 
-=> Test 6 Cart
-=> Test 7 Order placed 
+
+Admin Portal:
+
+Admin is responsible for managing content in the portal. Admin will handle adding and updating data in the portal. 
+Admin should be able to perform below functionalities:
+⦁	Login in to the system
+⦁	View list of medicines in the table format
+⦁	View list of medicine categories in table format
+⦁	Create a new category with name
+⦁	Add new medicines in categories with name, price, image, seller, and descriptions
+⦁	Update existing medicines in categories with name, price, and image.
+
+
+User Portal:
+
+From the user’s perspective, the application should allow users to browse through different medicines, add them to their cart, and purchase them. However, the user should be logged in to make any purchase through the portal.
+
+Users should be able to perform below functionalities:
+⦁	Browse through different medicines available in the portal
+⦁	Register in the application if not done yet
+⦁	Login into the portal before making any purchase
+⦁	Add medicines which you want to buy in the cart
+⦁	Place order for medicines in the cart
+⦁	Get Order summary when order is placed

@@ -12,7 +12,7 @@ namespace SpecFlowProject1.StepDefinitions
         IWebDriver driver;
         Random rnd = new Random();
         private readonly ScenarioContext _scenarioContext;
-        String test_url = "https://localhost:44348/";
+        String test_url = "https://med20221010182523.azurewebsites.net/";
 
         public BrowserStepDefinitions(ScenarioContext scenarioContext)
         {

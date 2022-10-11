@@ -38,7 +38,7 @@ namespace ABC_tester
     class Test1_correct_credentials
     {
         Browser_ops brow = new Browser_ops();
-        String test_url = "https://localhost:44348/";
+        String test_url = "https://med20221010182523.azurewebsites.net/";
         IWebDriver driver;
 
         [SetUp]
