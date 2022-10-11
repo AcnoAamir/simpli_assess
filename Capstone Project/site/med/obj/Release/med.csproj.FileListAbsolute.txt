@@ -57,3 +57,7 @@ D:\work\Live\git\simpli_assess\Capstone Project\site\med\obj\Release\med.csproj.
 D:\work\Live\git\simpli_assess\Capstone Project\site\med\obj\Release\med.csproj.CopyComplete
 D:\work\Live\git\simpli_assess\Capstone Project\site\med\obj\Release\med.dll
 D:\work\Live\git\simpli_assess\Capstone Project\site\med\obj\Release\med.pdb
+D:\work\Live\git\simpli_assess\Capstone Project\site\med\bin\EntityFramework.dll
+D:\work\Live\git\simpli_assess\Capstone Project\site\med\bin\EntityFramework.SqlServer.dll
+D:\work\Live\git\simpli_assess\Capstone Project\site\med\bin\EntityFramework.xml
+D:\work\Live\git\simpli_assess\Capstone Project\site\med\bin\EntityFramework.SqlServer.xml
